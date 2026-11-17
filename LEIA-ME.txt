@@ -1,0 +1,29 @@
+CYBER CONSCIENTE — SIPAT 2026
+
+Arquivos:
+- index.html: estrutura e conteúdo do site
+- style.css: identidade visual, responsividade e efeitos
+- script.js: menu mobile, abas, checklist e quiz
+
+COMO ABRIR
+1. Extraia o arquivo ZIP.
+2. Abra a pasta no VS Code.
+3. Clique com o botão direito em index.html e escolha "Open with Live Server", se tiver a extensão.
+   Ou abra index.html diretamente no navegador.
+4. Não é necessário instalar bibliotecas ou frameworks.
+
+PERSONALIZAÇÃO
+O nome exibido no projeto está como Amira Jamal Bazerbachi. Edite o texto no index.html se necessário.
+A paleta segue a referência enviada:
+#1D6F67, #36877F, #509F96, #69B7AE, #82CFC5
+com detalhes dourados e vidro translúcido.
+
+FONTES E LIMITES
+O caso real está baseado na publicação da Polícia Civil de Goiás de 15/08/2024:
+https://goias.gov.br/policiacivil/pcgo-e-pcrs-desmantelam-associacao-criminosa-por-aplicarem-golpe-do-novo-numero-de-mais-de-r-100-mil-a-vitimas-gauchas/
+
+A seção de computadores compartilhados utiliza recomendações de CERT.br, Ministério da Saúde, ANAC e Fundacentro. As fontes completas estão no próprio site.
+A notícia informa mandados cumpridos, mas não confirma recuperação integral do dinheiro ou ressarcimento das vítimas. O site preserva essa ressalva.
+
+OBSERVAÇÃO
+O site usa Google Fonts quando há conexão com a internet. Sem conexão, utiliza fontes alternativas locais do sistema.
